@@ -6,13 +6,6 @@ This repository showcases an interactive sales analysis dashboard for Blinkit �
 📊 Project Objective
 The primary goal of this project is to provide a comprehensive visual analysis of Blinkit's sales data to support strategic decision-making. The dashboard highlights key performance indicators, sales trends, and categorical breakdowns based on various filters.
 ![Screenshot 2025-05-19 090611](https://github.com/user-attachments/assets/b736f684-621d-4e30-be82-b3a78dc5e2ad)
-I have used different KPIs to visualize the sales with respect to different parameters:
-(i) Total Sales
-(ii) Average Sales
-(iii) No. Of Items
-(iv) Average Ratings
-
-![Screenshot 2025-05-19 090637](https://github.com/user-attachments/assets/c2db0d84-7300-4bee-88b6-269f9a1bf386)
 📌 Key Features
 Total Sales Overview
 View total revenue, average sales, number of items sold, and average customer ratings.
@@ -36,6 +29,9 @@ Sales by Outlet Type and Size
 Item-wise sales and popularity
 
 Fat content segmentation across outlets
+
+![Screenshot 2025-05-19 090637](https://github.com/user-attachments/assets/c2db0d84-7300-4bee-88b6-269f9a1bf386)
+
 
 Visual KPIs
 Clean card visuals and doughnut charts for easy interpretation.
